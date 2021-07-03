@@ -1,0 +1,38 @@
+/* FONTS */
+/* GILROY */
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-UltraLight.woff") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Gilroy-semibold";
+  src: url("../fonts/Gilroy-SemiBold.woff") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Gilroy-bold";
+  src: url("../fonts/Gilroy-Bold.woff") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Gilroy-regular";
+  src: url("../fonts/Gilroy-Regular.woff") format("truetype");
+  font-style: normal;
+}
+/* ROBOTO */
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto-Light.woff") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-medium";
+  src: url("../fonts/Roboto-Medium.woff") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Roboto-bold";
+  src: url("../fonts/Roboto-Bold.woff") format("truetype");
+  font-style: normal;
+}

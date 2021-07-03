@@ -1,0 +1,138 @@
+@media screen and (max-width: 426px) {
+  .h3 {
+    position: absolute;
+    width: 269px;
+    height: 88px;
+    left: 27px;
+    top: 1244px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 21px;
+    color: #fff;
+  }
+  .h3span {
+    position: relative;
+    width: 269px;
+    height: 88px;
+    left: -2px;
+    top: 0px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 44px;
+    color: #ffa128;
+  }
+  .p3 {
+    position: absolute;
+    width: 282px;
+    height: 224px;
+    left: 23px;
+    top: 1331px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #ffffff;
+  }
+  .spannum1 {
+    position: absolute;
+    width: 10px;
+    height: 29px;
+    left: 26px;
+    top: 1557px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+  }
+  .stylenum1 {
+    position: absolute;
+    width: 10px;
+    height: 20px;
+    left: 28px;
+    top: 1550px;
+    z-index: 1;
+    font-size: 16px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 29px;
+    color: #ffffff;
+  }
+  .spannum2 {
+    z-index: 1;
+    position: absolute;
+    width: 19px;
+    height: 33px;
+    left: 22px;
+    top: 1557px;
+    background: #ffffff;
+    border-radius: 6px;
+  }
+  .stylenum2 {
+    position: absolute;
+    width: 19px;
+    height: 16px;
+    left: 22px;
+    top: 1576px;
+    background: #ffffff;
+    border-radius: 6px;
+  }
+  .spannum3 {
+    position: absolute;
+    width: 23px;
+    height: 41px;
+    left: 20px;
+    top: 1553px;
+    background: #ffa128;
+    border-radius: 6px;
+  }
+  .afterp {
+    position: absolute;
+    width: 214px;
+    height: 58px;
+    left: 55px;
+    top: 1535px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #ffffff;
+  }
+  .vector4 {
+    position: absolute;
+    left: 274px;
+    top: 1547px;
+    bottom: 25.29%;
+    color: #ffffff;
+  }
+  .minus4 {
+    width: 33px;
+    height: 5px;
+    display: none;
+    position: relative;
+    top: 526px;
+    left: 254px;
+  }
+  .phidden {
+    position: absolute;
+    width: 264px;
+    height: 117px;
+    left: 47px;
+    top: 1597px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 16px;
+    color: #ffffff;
+    display: none;
+  }
+}

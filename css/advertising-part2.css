@@ -1,0 +1,128 @@
+@media screen and (max-width: 426px) {
+  .yandex {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 63px;
+    top: 711px;
+  }
+  .span11 {
+    position: absolute;
+    width: 18px;
+    height: 56px;
+    left: 30px;
+    top: 899px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    color: #ffffff;
+  }
+  .span22 {
+    position: absolute;
+    width: 18px;
+    height: 56px;
+    left: 30px;
+    top: 1174px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    color: #ffffff;
+  }
+  .span-name1 {
+    border-bottom: 1px solid #ffa128;
+    position: absolute;
+    width: 140px;
+    height: 29px;
+    left: 53px;
+    top: 908px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 29px;
+    color: #ffffff;
+  }
+  .span-name2 {
+    border-bottom: 1px solid #ffa128;
+    position: absolute;
+    width: 193px;
+    height: 29px;
+    left: 49px;
+    top: 1185px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+    color: #ffffff;
+  }
+  .vector1,
+  .vector2 {
+    position: absolute;
+    top: 897px;
+    height: 30px;
+    width: 30px;
+    left: 266px;
+  }
+  .minus1,
+  .minus2 {
+    width: 33px;
+    height: 5px;
+    display: none;
+    position: relative;
+    top: 905px;
+    left: 266px;
+  }
+  .vector2,
+  .minus2 {
+    top: 1182px;
+    left: 266px;
+  }
+  .nonep {
+    display: none;
+    position: absolute;
+    width: 275px;
+    height: 84px;
+    left: 34px;
+    top: 942px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 17px;
+    color: #ffffff;
+  }
+  .nonep2 {
+    display: none;
+    position: absolute;
+    width: 275px;
+    height: 100px;
+    left: 34px;
+    top: 1234px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 17px;
+    color: #ffffff;
+  }
+  .google {
+    position: absolute;
+    width: 251px;
+    height: 250px;
+    left: 22px;
+    top: 979px;
+  }
+  .img27 {
+    position: relative;
+    width: 321px;
+    height: 1024px;
+    z-index: -1;
+    margin-left: -8px;
+    top: 982px;
+  }
+}

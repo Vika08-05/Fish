@@ -1,0 +1,149 @@
+@media screen and (max-width: 426px) {
+  .img1 {
+    position: absolute;
+    width: 321px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+  }
+  .rectangle1 {
+    position: absolute;
+    width: 91px;
+    height: 4px;
+    left: 15px;
+    top: 53px;
+    background: #ffa128;
+    border-radius: 25px;
+  }
+  .rectangle2 {
+    position: absolute;
+    width: 91px;
+    height: 4px;
+    left: 220px;
+    top: 53px;
+    background: #ffa128;
+    border-radius: 25px;
+  }
+  .advertising-span {
+    position: absolute;
+    width: 122px;
+    height: 50px;
+    left: 100px;
+    top: 30px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 42px;
+    text-align: center;
+    color: #ffffff;
+  }
+  .fish1 {
+    position: absolute;
+    width: 235px;
+    height: 116px;
+    left: 85px;
+    top: 96px;
+  }
+  .fish2 {
+    position: absolute;
+    width: 235px;
+    height: 116px;
+    left: 85px;
+    top: 211px;
+  }
+  .fish3 {
+    position: absolute;
+    width: 235px;
+    height: 116px;
+    left: 85px;
+    top: 327px;
+  }
+  .fish4 {
+    position: absolute;
+    width: 235px;
+    height: 116px;
+    left: 85px;
+    top: 442px;
+  }
+  .rectangle3 {
+    position: absolute;
+    width: 303px;
+    height: 100px;
+    left: 9px;
+    top: 79px;
+    background: #ffffff;
+    border-radius: 27px 27px 0px 0px;
+  }
+  .rectangle4 {
+    position: absolute;
+    width: 303px;
+    height: 2250px;
+    left: 9px;
+    top: 96px;
+    background: rgba(34, 34, 34, 0.92);
+    border-radius: 27px;
+  }
+  .h1 {
+    position: absolute;
+    width: 285px;
+    height: 114px;
+    z-index: 1;
+    left: 19px;
+    top: 72px;
+    font-family: Gilroy-regular;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 41px;
+    text-align: center;
+    color: #333333;
+  }
+  .p1 {
+    position: absolute;
+    width: 290px;
+    height: 309px;
+    left: 18px;
+    top: 175px;
+    font-family: "Gilroy";
+    line-height: 22px;
+    color: #fff;
+  }
+  .span1 {
+    left: 43px;
+    top: 205px;
+    font-family: Gilroy-regular;
+    color: #ffa128;
+  }
+  .search {
+    position: absolute;
+    width: 297px;
+    height: 290px;
+    left: 17px;
+    top: 364px;
+  }
+  .p2 {
+    position: absolute;
+    width: 290px;
+    height: 309px;
+    left: 18px;
+    top: 576px;
+    font-family: "Gilroy";
+    line-height: 22px;
+    color: #fff;
+  }
+  .span2 {
+    left: 43px;
+    top: 205px;
+    font-family: Gilroy-regular;
+    color: #ffa128;
+  }
+  .endbody {
+    position: relative;
+    width: 321px;
+    height: 598px;
+    z-index: -1;
+    margin-left: -8px;
+    top: 723px;
+  }
+}
