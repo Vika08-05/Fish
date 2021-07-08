@@ -47,7 +47,7 @@ vector11.addEventListener("click", function () {
 let block = document.querySelector('.block')
 let video = document.querySelector('.video')
 video.addEventListener('click', function () {
-        block.style.height = '203vh'
+        block.style.height = '213.6vh'
     })
 block.addEventListener('click', function () {
     block.style.height = '0vh'

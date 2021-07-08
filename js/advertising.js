@@ -203,6 +203,7 @@ let div5top = document.querySelector(".div5")
 let p5 = document.querySelector(".phidden2")
 let spannum3 = document.querySelector(".spannum5")
 let spannum4 = document.querySelector(".spannum4")
+
 vector5.addEventListener("click", function () {
     if (p5.style.display == "block") {
         p5.style.display = "none";
@@ -224,20 +225,29 @@ vector5.addEventListener("click", function () {
     }
 
    if (phidden1.style.display == "block") {
-    div3top.style.top = "-907px";
-    div4top.style.top = "-948px";
-    div5top.style.top = "-1592px";
-} 
+        div3top.style.top = "-907px";
+        div4top.style.top = "-948px";
+        div5top.style.top = "-1592px";
+    } 
    if (phidden1.style.display == "none") {
-    div3top.style.top = "50px";
-    div4top.style.top = "33px";
-    div5top.style.top = "-524px";
+        div3top.style.top = "50px";
+        div4top.style.top = "33px";
+        div5top.style.top = "-524px";
     }
-       if (p1.style.display == "block" && p2.style.display == "block") {
+    if (p1.style.display == "block" && p2.style.display == "block") {
         div3.style.top = "133px";
+        div4top.style.top = "118px";
+        div5top.style.top = "-507px";
+        rectangle4.style.height = "2400px";
+        span33top.style.top = "2379px";
+        btn2top.style.top = "2359px";
+        span22end.style.top = "2200px";
+        endfishtop.style.top = "2235px";
+        btn1.style.top = "2275px";
+        span11end.style.top = "2132px";
+        endbodytop.style.height = "613px"
         div3.style.left = "-3px";
     } 
-
 })
 minus5.addEventListener("click", function () {
     if (minus5.style.display == "block") {
@@ -307,6 +317,10 @@ vector6.addEventListener("click", function () {
     if (p1.style.display == "block" && p2.style.display == "block") {
         div4top2.style.top = "133px";
         div4top2.style.left = "-3px";
+        div5top2.style.top = "-538px";
+        div5top2.style.left = "-3px";
+        rectangle4.style.height = "2492px";
+        end.style.top = "-885px"
     } 
 })
 minus6.addEventListener("click", function () {
@@ -396,6 +410,12 @@ vector8.addEventListener("click", function () {
         span22top.style.display = "none";
         span11top.style.display = "none";
     }
+    if (p1.style.display == "block" && p2.style.display == "block") {
+        div5top2.style.top = "-638px";
+        div5top2.style.left = "-3px";
+        rectangle4.style.height = "2543px";
+        end.style.top = "-948px"
+    } 
 })
 minus8.addEventListener("click", function () {
     if (minus8.style.display == "block") {

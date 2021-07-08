@@ -17,7 +17,7 @@ vector1.addEventListener("click", function () {
         minus.style.display = "block"
         vector1.style.display = "none"
         vector22.style.position = "relative"
-        vector22.style.top = "292px"
+        vector22.style.top = "267px"
     }
     minus.addEventListener("click", function () {
         after.style.display = "none"
@@ -60,7 +60,7 @@ if (after.style.display = 'block' && vector22.addEventListener("click", function
 let block11 = document.querySelector('.block1')
 let video1 = document.querySelector('.video1')
 video1.addEventListener('click', function () {
-    block11.style.height = '245vh'
+    block11.style.height = '258vh'
 });
 block11.addEventListener('click', function () {
     block11.style.height = '0vh'

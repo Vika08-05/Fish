@@ -330,12 +330,60 @@
   .vector3,
   .vector4,
   .vector5,
+  .minus1,
+  .minus2,
+  .minus3,
+  .minus4,
+  .minus5,
+  .minus6,
   .vector6 {
     position: absolute;
     top: 1250px;
     height: 30px;
     width: 30px;
     left: 275px;
+  }
+  .minus1,
+  .minus2,
+  .minus3,
+  .minus4,
+  .minus5,
+  .minus6 {
+    width: 30px;
+    height: 6px;
+    display: none;
+  }
+  .hidden1,
+  .hidden2,
+  .hidden3,
+  .hidden4,
+  .hidden5,
+  .hidden6 {
+    display: none;
+    position: absolute;
+    width: 292px;
+    height: 42px;
+    left: 29px;
+    top: 1272px;
+    font-family: Gilroy;
+    font-size: 15px;
+    line-height: 17px;
+    color: #ffffff;
+  }
+  .hidden2 {
+    top: 1333px;
+  }
+  .hidden3 {
+    top: 1388px;
+  }
+  .hidden4 {
+    top: 1440px;
+  }
+  .hidden5 {
+    top: 1494px;
+  }
+  .hidden6 {
+    top: 1545px;
   }
   .span11 {
     top: 1245px;
@@ -370,19 +418,24 @@
   .span-name6 {
     top: 1520px;
   }
-  .vector2 {
+  .vector2,
+  .minus2 {
     top: 1306px;
   }
-  .vector3 {
+  .vector3,
+  .minus3 {
     top: 1362px;
   }
-  .vector4 {
+  .vector4,
+  .minus4 {
     top: 1418px;
   }
-  .vector5 {
+  .vector5,
+  .minus5 {
     top: 1472px;
   }
-  .vector6 {
+  .vector6,
+  .minus6 {
     top: 1522px;
   }
   .fish {
