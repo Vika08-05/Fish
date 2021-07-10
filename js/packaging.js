@@ -102,6 +102,7 @@ minus1.addEventListener("click", function () {
     rectangle4.style.height = "3333px";
     back4.style.height = "1575px";
 })
+
 vector3.addEventListener("click", function () {
     hidden2.style.display = "block";
     div3.style.top = "80px";
@@ -141,6 +142,30 @@ vector3.addEventListener("click", function () {
         rectangle4.style.height = "3510px";
         back4.style.height = "1779px";
         end.style.top = "78px";
+    }
+})
+vector3.addEventListener("click", function () {
+    if (hidden3.style.display == "block") {
+        div3.style.top = "66";
+        div4.style.top = "455px";
+        minus3.style.display = 'block';
+        minus3.style.top = "1869px";
+        minus3.style.left = "257px";
+        block.style.top = "307px";
+        rectangle4.style.height = "3768px";
+        back4.style.height = "2013px";
+        end.style.top = "307px";
+    }
+})
+vector3.addEventListener("click", function () {
+    if (hidden4.style.display == "block") {
+        minus4.style.display = 'block';
+        minus4.style.top = "1917px";
+        minus4.style.left = "257px";
+        block.style.top = "93px";
+        rectangle4.style.height = "3558px";
+        back4.style.height = "1786px";
+        end.style.top = "97px";
     }
 })
 minus2.addEventListener("click", function () {
@@ -206,6 +231,53 @@ vector4.addEventListener("click", function () {
         end.style.top = "678px";
     }
 })
+vector4.addEventListener("click", function () {
+    if (hidden1.style.display == "block") {
+        hidden3.style.display = "block";
+        div4.style.top = "745px";
+        minus3.style.display = 'block';
+        minus3.style.top = "1867px";
+        minus3.style.left = "257px";
+        block.style.top = "621px";
+        rectangle4.style.height = "4057px";
+        back4.style.height = "2343px";
+        end.style.top = "618px";
+    }
+})
+vector4.addEventListener("click", function () {
+    if (hidden1.style.display == "block" && hidden2.style.display == "block") {
+        hidden3.style.display = "block";
+        div4.style.top = "792px";
+        minus3.style.display = 'block';
+        minus3.style.top = "1867px";
+        minus3.style.left = "257px";
+        block.style.top = "669px";
+        rectangle4.style.height = "4057px";
+        back4.style.height = "2343px";
+        end.style.top = "618px";
+    }
+})
+vector4.addEventListener("click", function () {
+    if (hidden4.style.display == "block") {
+        hidden3.style.display = "block";
+        minus4.style.display = 'block';
+        minus4.style.top = "1917px";
+        minus4.style.left = "257px";
+        block.style.top = "399px";
+        rectangle4.style.height = "3857px";
+        back4.style.height = "2101px";
+        end.style.top = "394px";
+    }
+})
+vector4.addEventListener("click", function () {
+    if (hidden1.style.display == "block" && hidden2.style.display == "block" && hidden4.style.display == "block") {
+        console.log("okkkkkkkkkkkk")
+        block.style.top = "829px";
+        rectangle4.style.height = "4277px";
+        back4.style.height = "2541px";
+        end.style.top = "835px";
+    }
+})
 minus3.addEventListener("click", function () {
     white2.style.display = "none";
     bot1.style.display = "none";
@@ -257,6 +329,58 @@ vector5.addEventListener("click", function () {
         minus4.style.left = "257px";
         minus4.style.position = "relative";
         block.style.top = "829px";
+        rectangle4.style.height = "4267px";
+        back4.style.height = "2496px";
+        end.style.top = "833px";
+    }
+})
+vector5.addEventListener("click", function () {
+    if (hidden1.style.display == "block") {
+        hidden4.style.display = "block";
+        minus4.style.display = 'block';
+        minus4.style.top = "1917px";
+        minus4.style.left = "257px";
+        minus4.style.position = "relative";
+        block.style.top = "404px";
+        rectangle4.style.height = "3846px";
+        back4.style.height = "2096px";
+        end.style.top = "408px";
+    }
+})
+vector5.addEventListener("click", function () {
+    if (hidden2.style.display == "block") {
+        hidden4.style.display = "block";
+        minus4.style.display = 'block';
+        minus4.style.top = "1917px";
+        minus4.style.left = "257px";
+        minus4.style.position = "relative";
+        block.style.top = "96px";
+        rectangle4.style.height = "3541px";
+        back4.style.height = "1790px";
+        end.style.top = "86px";
+    }
+})
+vector5.addEventListener("click", function () {
+    if (hidden2.style.display == "block" && hidden1.style.display == "block") {
+        hidden4.style.display = "block";
+        minus4.style.display = 'block';
+        minus4.style.top = "1917px";
+        minus4.style.left = "257px";
+        minus4.style.position = "relative";
+        block.style.top = "455px";
+        rectangle4.style.height = "4267px";
+        back4.style.height = "2165px";
+        end.style.top = "457px";
+    }
+})
+vector5.addEventListener("click", function () {
+    if (hidden3.style.display == "block" && hidden2.style.display == "block" && hidden1.style.display == "block") {
+        hidden4.style.display = "block";
+        minus4.style.display = 'block';
+        minus4.style.top = "1917px";
+        minus4.style.left = "257px";
+        minus4.style.position = "relative";
+        block.style.top = "823px";
         rectangle4.style.height = "4267px";
         back4.style.height = "2496px";
         end.style.top = "833px";

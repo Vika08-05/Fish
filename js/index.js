@@ -193,8 +193,21 @@ if (window.matchMedia("(min-width: 310px) and (max-width: 425px)").matches) {
     else if (this.pageYOffset <= 180) {
         img_fish1.src = fish1[16];
         if(!scroll){
-            img_fish1.style.position= 'fixed';
-            img_fish1.style.top= '0';
+          img_fish1.style.position= 'fixed';
+          img_fish1.style.top = '0';
+          aboutus.style.marginTop = "566px"
+          img_fish1.src = fish1[0];
+          header.style.position= 'fixed';
+          header.style.top= '-3px';
+          img_fish1.style.top = '0';
+          rectangle1.style.position = 'fixed';
+          rectangle1.style.marginTop = '0px';
+          rectangle2.style.position = 'fixed';
+          rectangle2.style.marginTop = '0px';
+          bodyspan.style.position = 'fixed';
+          bodyspan.style.marginTop = '0px';
+          p1.style.position = 'fixed';
+          p1.style.marginTop = '0px';
         }
     }
     else if (this.pageYOffset >= 180 && this.pageYOffset <= 190) { 
@@ -214,10 +227,6 @@ if (window.matchMedia("(min-width: 310px) and (max-width: 425px)").matches) {
     }
     else if (this.pageYOffset >= 190 || this.pageYOffset < 190+350) {
         img_fish1.src = fish1[17];
-        if(!scroll){
-          // img_fish1.style.position= 'fixed';
-          // img_fish1.style.top = '0';
-        }
     }
   });
 }
