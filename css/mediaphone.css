@@ -78,9 +78,11 @@
   .header-img30,
   .header-img31,
   .header-img32 {
-    /* margin-left: -8px; */
     width: 425px;
     margin-bottom: -122px;
+  }
+  body {
+    margin: 0px;
   }
   .header-name {
     position: absolute;
@@ -866,12 +868,17 @@
     left: 54px;
     width: 58px;
   }
+  .video1 {
+    top: 5079px;
+    left: 87px;
+  }
   .video2 {
-    left: 200px;
+    top: 5079px;
+    left: 280px;
   }
   .video3 {
-    top: 4682px;
-    left: 145px;
+    top: 5373px;
+    left: 190px;
   }
   .black {
     position: absolute;
